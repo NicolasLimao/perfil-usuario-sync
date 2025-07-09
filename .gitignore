@@ -1,0 +1,9 @@
+#Dependecias do Node.js
+node_modules/
+
+# Dependências do npm e log
+package-lock.json
+npm-debug.log
+
+# .env 
+.env 
